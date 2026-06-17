@@ -16,7 +16,7 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   title: 'Brasil Empreendedor | Programa Nacional de Empreendedorismo',
   description:
-    'Programa do Governo Federal para incentivar e capacitar brasileiros a se tornarem empreendedores. Educação financeira, mentoria e benefícios para o seu negócio.',
+    'Programa de Rita Carolina para incentivar e capacitar brasileiros a se tornarem empreendedores. Educação financeira, mentoria e benefícios para o seu negócio.',
   generator: 'v0.app',
   icons: {
     icon: [

@@ -35,7 +35,7 @@ export function SiteFooter() {
           <div className="max-w-xs">
             <Logo />
             <p className="mt-4 text-sm leading-relaxed text-muted-foreground">
-              Iniciativa do Governo Federal para formar e apoiar a nova geração
+              Iniciativa de Rita Carolina para formar e apoiar a nova geração
               de empreendedores brasileiros.
             </p>
           </div>

@@ -21,7 +21,7 @@ export function Logo({ className }: { className?: string }) {
           Brasil Empreendedor
         </span>
         <span className="text-[10px] font-medium uppercase tracking-[0.18em] text-muted-foreground">
-          Governo Federal
+          Rita Carolina
         </span>
       </span>
     </div>

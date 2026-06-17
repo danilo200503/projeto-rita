@@ -24,7 +24,7 @@ export function AuthLayout({
           <div className="w-full max-w-md">{children}</div>
         </div>
         <p className="text-center text-xs text-muted-foreground">
-          Ambiente oficial do Governo Federal — seus dados estão protegidos.
+          Seus dados estão protegidos.
         </p>
       </div>
 

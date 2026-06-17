@@ -10,7 +10,7 @@ import { Card, CardContent } from "@/components/ui/card"
 export const metadata = {
   title: "Sobre o Projeto | Brasil Empreendedor",
   description:
-    "Conheça a missão, a visão e os valores do Brasil Empreendedor, programa do Governo Federal para o fomento ao empreendedorismo.",
+    "Conheça a missão, a visão e os valores do Brasil Empreendedor, programa de Rita Carolina para o fomento ao empreendedorismo.",
 }
 
 const stats = [
@@ -69,7 +69,7 @@ export default function SobrePage() {
         <PageHero
           badge="Sobre o Projeto"
           title="Empreendedorismo como motor de desenvolvimento"
-          description="O Brasil Empreendedor é uma iniciativa do Governo Federal que une educação, crédito e mentoria para fortalecer pequenos negócios e gerar oportunidades em todo o país."
+          description="O Brasil Empreendedor é uma iniciativa de Rita Carolina que une educação, crédito e mentoria para fortalecer pequenos negócios e gerar oportunidades em todo o país."
         />
 
         {/* Estatísticas */}
@@ -84,7 +84,7 @@ export default function SobrePage() {
           </div>
         </section>
 
-        {/* Texto + imagem */}
+        
         <section className="bg-background py-16 sm:py-24">
           <div className="mx-auto grid max-w-6xl items-center gap-12 px-4 sm:px-6 md:grid-cols-2">
             <div className="flex flex-col gap-5">
@@ -125,7 +125,7 @@ export default function SobrePage() {
           </div>
         </section>
 
-        {/* Missão, Visão, Valores */}
+        
         <section className="bg-secondary py-16 sm:py-24">
           <div className="mx-auto max-w-6xl px-4 sm:px-6">
             <div className="grid gap-6 md:grid-cols-3">
@@ -144,7 +144,7 @@ export default function SobrePage() {
           </div>
         </section>
 
-        {/* Linha do tempo */}
+        
         <section className="bg-background py-16 sm:py-24">
           <div className="mx-auto max-w-4xl px-4 sm:px-6">
             <h2 className="text-center font-heading text-3xl font-bold tracking-tight text-foreground sm:text-4xl">

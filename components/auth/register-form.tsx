@@ -26,7 +26,7 @@ export function RegisterForm() {
           Crie sua conta
         </h1>
         <p className="text-sm text-muted-foreground">
-          Cadastro gratuito. Comece a empreender com o apoio do Governo Federal.
+          Cadastro gratuito. Comece a empreender com o apoio de Rita Carolina.
         </p>
       </div>
 
