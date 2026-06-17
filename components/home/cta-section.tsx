@@ -12,6 +12,7 @@ export function CtaSection() {
             <span className="flex-1 bg-brasil-yellow" />
             <span className="flex-1 bg-brasil-blue" />
           </div>
+          
           <h2 className="mx-auto max-w-2xl font-heading text-3xl font-bold tracking-tight text-balance text-primary-foreground sm:text-4xl">
             Pronto para dar o primeiro passo?
           </h2>

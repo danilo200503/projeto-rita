@@ -63,7 +63,7 @@ export function SiteFooter() {
 
         <div className="mt-12 flex flex-col items-start justify-between gap-4 border-t border-border pt-6 sm:flex-row sm:items-center">
           <p className="text-xs text-muted-foreground">
-            © {new Date().getFullYear()} Brasil Empreendedor — Governo Federal. Todos os direitos reservados.
+            © {new Date().getFullYear()} "Este projeto é um protótipo acadêmico desenvolvido para fins educacionais e de extensão universitária. Não possui vínculo oficial com o Governo Federal ou qualquer órgão público. Todas as informações, usuários e dados apresentados são fictícios e utilizados apenas para demonstração."
           </p>
           <div className="flex h-1.5 w-24 overflow-hidden rounded-full">
             <span className="flex-1 bg-brasil-green" />
